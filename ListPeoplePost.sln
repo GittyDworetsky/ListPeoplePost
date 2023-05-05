@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPeoplePost.Web", "ListPeoplePost.Web\ListPeoplePost.Web.csproj", "{1B487BD3-9AB4-4914-B369-9EA6E0A246A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPeoplePost.Data", "ListPeoplePost.Data\ListPeoplePost.Data.csproj", "{F2233E6D-84FA-4723-B578-D65EB22F218B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B487BD3-9AB4-4914-B369-9EA6E0A246A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B487BD3-9AB4-4914-B369-9EA6E0A246A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B487BD3-9AB4-4914-B369-9EA6E0A246A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B487BD3-9AB4-4914-B369-9EA6E0A246A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2233E6D-84FA-4723-B578-D65EB22F218B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2233E6D-84FA-4723-B578-D65EB22F218B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2233E6D-84FA-4723-B578-D65EB22F218B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2233E6D-84FA-4723-B578-D65EB22F218B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E79BF243-6579-4B47-B436-AD23C36F5FEA}
+	EndGlobalSection
+EndGlobal
